@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Gabriela Fabián Martínez 👋
 
-<!--
-**GabrielaMar08/GabrielaMar08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Geophysical Engineer from the National Autonomous University of Mexico (UNAM) with interests in geospatial analysis, scientific programming, and environmental modeling.
 
-Here are some ideas to get you started:
+Currently pursuing a Diploma in Environmental Impact Assessment in Rural Systems, expanding my knowledge in environmental analysis and sustainable territorial management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to apply computational tools to understand environmental processes and support data-driven decision-making in climate and natural resource research.
+
+---
+
+## Research Interests
+
+- Climate Change
+- Geospatial Analysis (GIS)
+- Environmental Modeling
+- Scientific Computing
+- Natural Resources
+- Environmental Data Analysis
+
+---
+
+## Technical Skills
+
+- Python
+- QGIS
+- Git & GitHub
+- SQL (Basic)
+- Google Sheets
+- AutoCAD
+- Surfer
+
+---
+
+## Current Learning
+
+- Julia for scientific computing
+- Climate modeling
+- Reproducible research workflows
+- Environmental Impact Assessment
+
+---
+
+## Featured Projects
+
+🔹 Hydrogeological Characterization of the Actopan Valley Aquifer
+
+🔹 Terrain Gravity Correction using Digital Elevation Models in QGIS
+
+🔹 Point Cloud Processing and Geological Structure Analysis using Python
+
+---
+
+## Let's Connect
+
+💼 LinkedIn:
+(agrega aquí tu enlace)
+
+📧 Email:
+(tu correo)
