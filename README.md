@@ -52,8 +52,6 @@ My goal is to apply computational tools to understand environmental processes an
 
 ## Let's Connect
 
-💼 LinkedIn:
-(agrega aquí tu enlace)
+💼 LinkedIn: www.linkedin.com/in/gabriela-fabián-martínez-a638a2266
 
-📧 Email:
-(tu correo)
+📧 Email: gabriela.fmartinez@hotmail.com
